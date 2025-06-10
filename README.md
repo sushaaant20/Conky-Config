@@ -1,7 +1,4 @@
 # 💻 Minimalis Conky 1.4 Professional
-
-**Author:** Sushant
-**Release Date:** 10 June 2025
 **Tested On:** Linux Mint 22.1 Xia
 
 Minimalis Conky 1.4 is a sleek, professional-grade Conky configuration crafted for clarity, performance, and aesthetic simplicity. Designed for system monitoring enthusiasts, it offers essential real-time stats with smooth visuals and clean formatting — no distractions, no clutter.
